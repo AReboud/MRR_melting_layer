@@ -1,5 +1,5 @@
 # MRR_melting_layer
-Algorithm to retrieve the melting layer from MRR netcdf file.
+Algorithm to retrieve the melting layer from MRR (Micro Rain Radar) netcdf file.
 
 ## How to use
 
